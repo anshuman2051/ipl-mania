@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ipl-mania/static/css/main.a0465362.chunk.css",
+    "main.js": "/ipl-mania/static/js/main.2aea89f1.chunk.js",
+    "main.js.map": "/ipl-mania/static/js/main.2aea89f1.chunk.js.map",
+    "runtime-main.js": "/ipl-mania/static/js/runtime-main.2f721272.js",
+    "runtime-main.js.map": "/ipl-mania/static/js/runtime-main.2f721272.js.map",
+    "static/css/2.69121389.chunk.css": "/ipl-mania/static/css/2.69121389.chunk.css",
+    "static/js/2.16d7449b.chunk.js": "/ipl-mania/static/js/2.16d7449b.chunk.js",
+    "static/js/2.16d7449b.chunk.js.map": "/ipl-mania/static/js/2.16d7449b.chunk.js.map",
+    "index.html": "/ipl-mania/index.html",
+    "precache-manifest.4ba3ec84fbb2a628927da3e6499e2135.js": "/ipl-mania/precache-manifest.4ba3ec84fbb2a628927da3e6499e2135.js",
+    "service-worker.js": "/ipl-mania/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/ipl-mania/static/css/2.69121389.chunk.css.map",
+    "static/css/main.a0465362.chunk.css.map": "/ipl-mania/static/css/main.a0465362.chunk.css.map",
+    "static/js/2.16d7449b.chunk.js.LICENSE.txt": "/ipl-mania/static/js/2.16d7449b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f721272.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.16d7449b.chunk.js",
+    "static/css/main.a0465362.chunk.css",
+    "static/js/main.2aea89f1.chunk.js"
+  ]
+}
